@@ -1,0 +1,57 @@
+# ===================================================
+#  ROBOTS SECURITY PROTOCOL v3.1
+#  Target System : Tri Secure Node
+#  Status        : Monitoring
+# ===================================================
+
+User-agent: *
+Allow: /
+
+# ---------------------------------------------------
+# Restricted Directories
+# ---------------------------------------------------
+
+Disallow: /admin/
+Disallow: /root/
+Disallow: /system-core/
+Disallow: /hidden/
+Disallow: /backup/
+Disallow: /private/
+
+# ---------------------------------------------------
+# WARNING
+# ---------------------------------------------------
+# Unauthorized scanning will be logged.
+# Your IP might be monitored.
+# Curiosity is allowed. Destruction is not.
+# ---------------------------------------------------
+
+# ===================================================
+# Developer Notes
+# ===================================================
+# If you are reading this...
+# you are either a bot,
+# or someone smart enough to look deeper.
+#
+# Maybe try decoding something?
+#
+# U2VhcmNoIGZvciB0aGUgaGlkZGVuIGZpbGUuLi4=
+#
+# ===================================================
+
+# ===================================================
+# Secondary Hint
+# ===================================================
+# Nothing interesting in /hidden/
+# or maybe there is ;)
+#
+# {L2ZsYWcudHh0}
+#
+# ===================================================
+
+# ===================================================
+# System Quote
+# ===================================================
+# "Security is not a product,
+# it is a process."
+# ===================================================
